@@ -47,5 +47,3 @@ Enterprise Hospital MIS Solution
 
 ## Author
 (Mishraji Mithilawale)
-
-Shailesh Mishra
