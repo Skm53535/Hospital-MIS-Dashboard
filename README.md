@@ -42,6 +42,10 @@ Available in this repository.
 A representative data model screenshot has been included. 
 The complete production model contains multiple fact and dimension tables and is significantly larger than the sample model shown.
 
+Enterprise Hospital MIS Solution
+50+ report pages, 50+ tables, multi-centre reporting and advanced DAX implementation.
+
 ## Author
+(Mishraji Mithilawale)
 
 Shailesh Mishra
