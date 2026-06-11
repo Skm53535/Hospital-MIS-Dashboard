@@ -1,41 +1,47 @@
-Hospital MIS Dashboard
+# Hospital MIS Dashboard
 
 ## Overview
-Comprehensive Hospital Management Information System (MIS) reporting solution built using Power BI.
+Enterprise-level Hospital MIS reporting solution developed in Power BI for hospital operations, revenue analysis, doctor performance monitoring, and management reporting.
 
 ## Key Modules
+
 - Executive Dashboard
 - Daily Service Report (DSR)
-- Doctor Performance Analysis
-- Department Wise Analysis
-- IP / OP Analytics
-- Payer Wise Analysis
+- Doctor Performance Dashboard
+- Department-wise Analysis
+- IP/OP Analytics
+- Payer-wise Analysis
 - Referral Source Analysis
-- Target vs Achievement Tracking
+- Target vs Achievement
 - Revenue Monitoring
 
-## Technical Features
-- Star Schema Data Model
+## Technical Highlights
+
 - Power Query ETL
-- Advanced DAX Measures
+- DAX Measures
+- Star Schema Modeling
 - Dynamic Filtering
 - KPI Tracking
 - Multi-centre Reporting
 - Row Level Security (RLS)
 
-## Dashboard Preview
+## Data Sources
 
-(Add screenshots below)
+- Billing Master
+- Patient Master
+- MIS / Advice Data
+- Centre Master
+- Doctor Master
 
-## Tools Used
-- Power BI
-- Power Query
-- DAX
-- Excel
+## Dashboard Screenshots
+
+Available in this repository.
+
+## Data Model
+
+A representative data model screenshot has been included. 
+The complete production model contains multiple fact and dimension tables and is significantly larger than the sample model shown.
 
 ## Author
-Shailesh Mishra
 
-# Hospital-MIS-Dashboard
-[Power BI dashboards and analytics projects
-](https://ndcfsl-my.sharepoint.com/:u:/g/personal/shailesh_mishra_centreforsight_net/IQDv4YGmNMTuTLkvBuCr3FiCAfYQgFJ5_10jBkdJDrzByQo?e=W8ZaZ8)
+Shailesh Mishra
